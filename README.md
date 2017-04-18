@@ -1,19 +1,19 @@
 Bayesian Data Analysis *with PyMC*
 ======================
 
-###For those in a hurry
+### For those in a hurry
 
 My first attempt to adapt to Python (using PyMC) the R code from "Doing Bayesian Data Analysis",
 by John K. Krushcke.
 
-####Models done so far:
+#### Models done so far:
 - Inferring two binomials proportions and their difference;
 - Hierarchical prior for Bernoulli likelihood;
 - Metric variable for a single group;
 - Simple linear regression;
 - Oneway ANOVA.
 
-###Quick References
+### Quick References
 >1. "Doing Bayesian Data Analysis", by John K. Krushcke   
 >[http://doingbayesiandataanalysis.blogspot.com.br/](http://doingbayesiandataanalysis.blogspot.com.br/)
 >
@@ -24,7 +24,7 @@ by John K. Krushcke.
 >[http://pymc-devs.github.io/pymc/](http://pymc-devs.github.io/pymc/)
 
 
-###For those with some time to spare
+### For those with some time to spare
 
 After many years avoiding any book on statistics, I found myself interested on bayesian methods
 when I first heard about them in the NLTK (Natural Language ToolKit for Python) Book.
